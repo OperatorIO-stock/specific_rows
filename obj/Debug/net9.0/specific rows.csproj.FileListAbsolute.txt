@@ -1,0 +1,15 @@
+/home/operatorio/Документы/meCodes/specific rows/bin/Debug/net9.0/specific rows
+/home/operatorio/Документы/meCodes/specific rows/bin/Debug/net9.0/specific rows.deps.json
+/home/operatorio/Документы/meCodes/specific rows/bin/Debug/net9.0/specific rows.runtimeconfig.json
+/home/operatorio/Документы/meCodes/specific rows/bin/Debug/net9.0/specific rows.dll
+/home/operatorio/Документы/meCodes/specific rows/bin/Debug/net9.0/specific rows.pdb
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.AssemblyInfoInputs.cache
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.AssemblyInfo.cs
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.sourcelink.json
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.dll
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/refint/specific rows.dll
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.pdb
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/specific rows.genruntimeconfig.cache
+/home/operatorio/Документы/meCodes/specific rows/obj/Debug/net9.0/ref/specific rows.dll
